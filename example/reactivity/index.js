@@ -1,4 +1,4 @@
-import { effectWatch, reactive } from './core/reactivity/index.js'
+import { effectWatch, reactive } from '../../core/reactivity/index.js'
 
 const countDom = document.querySelector('.count')
 const addBtn = document.querySelector('button')
